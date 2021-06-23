@@ -24,7 +24,7 @@ Visit the following link if you want to know more about numpy, pandas, and matpl
 
 ## How to Run
 ---
-The main source code is **dppgreedy.py**, just clone this repository or download the file. Run the file in your python IDE, or, if python had been installed in your system, open your terminal, change the current working directory to the director where file **dppgreedy.py** belongs to, then execute the following code
+The main source code is **dppgreedy.py**, just clone this repository or download the file. Run the file in your python IDE, or, if python had been installed in your system, open your terminal, change the current working directory to the directory where file **dppgreedy.py** belongs to, then execute the following code
 ```
 python dppgreedy.py
 ```
